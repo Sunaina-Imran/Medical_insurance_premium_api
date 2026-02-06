@@ -122,6 +122,6 @@ Add monitoring
 
 *Note this is only for educational purpose 
 
-Sunaina Khan
+Sunaina Imran
 
 📌 Learning ML Deployment | FastAPI | Docker | AWS

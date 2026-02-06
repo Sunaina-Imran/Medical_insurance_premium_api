@@ -7,10 +7,15 @@ This project demonstrates end-to-end ML deployment — from model training to se
  Features
 
 ✅ Predicts insurance premium using ML
+
 ✅ FastAPI backend for high performance
+
 ✅ Input validation using Pydantic
+
 ✅ Automatic BMI calculation
+
 ✅ Age grouped into risk categories
+
 ✅ Clean and production-ready API design
 
  Dataset
